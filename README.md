@@ -1,4 +1,5 @@
 # matzip-forensics
+차세대 정보보안 리더 양성 프로그램 BEST OF THE BEST 6기 프로젝트
 현장 기반 Mac 포렌식 도구(MACroscope) 개발
 
 ## 프로젝트 요약
@@ -25,8 +26,8 @@
 
 
 ## System Architecture
+![image](https://user-images.githubusercontent.com/29897277/97703497-12854b80-1af4-11eb-9d3c-1c7d5286c3e4.png)
 
-<image>
 
 
 
