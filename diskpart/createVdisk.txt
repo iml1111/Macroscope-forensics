@@ -1,6 +1,0 @@
-Create Vdisk File=C:\Example.vhd Maximum=1024 Type=Expandable
-Select Vdisk File=C:\Example.vhd
-attach vdisk
-create partition primary
-format fs=fat quick label="Matzip"
-assign letter = "X"
